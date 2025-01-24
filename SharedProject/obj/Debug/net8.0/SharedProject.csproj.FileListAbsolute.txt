@@ -1,0 +1,11 @@
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/bin/Debug/net8.0/SharedProject.deps.json
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/bin/Debug/net8.0/SharedProject.dll
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/bin/Debug/net8.0/SharedProject.pdb
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/obj/Debug/net8.0/SharedProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/obj/Debug/net8.0/SharedProject.AssemblyInfoInputs.cache
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/obj/Debug/net8.0/SharedProject.AssemblyInfo.cs
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/obj/Debug/net8.0/SharedProject.csproj.CoreCompileInputs.cache
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/obj/Debug/net8.0/SharedProject.dll
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/obj/Debug/net8.0/refint/SharedProject.dll
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/obj/Debug/net8.0/SharedProject.pdb
+/Users/ilya/HomeWork/Maga3_Sem/Web_3Sem/SharedProject/obj/Debug/net8.0/ref/SharedProject.dll
